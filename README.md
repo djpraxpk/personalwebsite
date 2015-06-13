@@ -1,2 +1,1 @@
-# personalwebsite
-My website
+My personal website built as a test project to learn git and git hub
